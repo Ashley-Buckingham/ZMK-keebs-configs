@@ -49,7 +49,7 @@ layers:
   - '@'
   - '#'
   - $
-  - {t: '%', h: toggle}
+  - '%'
   - ^
   - '&'
   - '*'
@@ -148,7 +148,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - RS(LEFT ARROW)
+  - LEFT
   - DOWN
   - UP ARROW
   - RIGHT
