@@ -202,10 +202,10 @@
 
         sym-nav {
             bindings = <
-&trans  &kp EXCLAMATION  &kp AT_SIGN   &kp HASH      &kp DOLLAR    &kt PERCENT    &kp CARET        &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp BSPC
-&trans  &kp NUMBER_1     &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5         &kp MINUS        &kp EQUAL      &kp GRAVE     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp PIPE
-&trans  &kp NUMBER_6     &kp N7        &kp N8        &kp N9        &kp N0         &kp UNDERSCORE   &kp PLUS       &kp TILDE     &kp LEFT_BRACE        &kp RIGHT_BRACE        &trans
-                                       &trans        &trans        &trans         &ht ENTER SPACE  &trans         &trans
+&trans         &kp EXCLAMATION  &kp AT_SIGN   &kp HASH      &kp DOLLAR    &kt PERCENT    &kp CARET        &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp BSPC
+&ht LCTRL TAB  &kp NUMBER_1     &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5         &kp MINUS        &kp EQUAL      &kp GRAVE     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp PIPE
+&trans         &kp NUMBER_6     &kp N7        &kp N8        &kp N9        &kp N0         &kp UNDERSCORE   &kp PLUS       &kp TILDE     &kp LEFT_BRACE        &kp RIGHT_BRACE        &trans
+                                              &trans        &trans        &trans         &ht ENTER SPACE  &trans         &trans
             >;
 
             label = "Sym/Nav";
